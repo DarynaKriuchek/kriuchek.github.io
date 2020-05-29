@@ -1,0 +1,12 @@
+Запуск Dockerfile
+=================
+- *Крок 1*
+    - Перевірте, чи служба Docker служба вімкнена:
+        
+        .. image:: /Images/launchDocker/1.png
+        .. image:: /Images/installation/2.jpeg
+        .. image:: /Images/installation/3.jpeg
+        
+        - Linux
+            - Для установки використайте інформацію за `посиланням`_
+.. _посиланням: https://runnable.com/docker/install-docker-on-linux
